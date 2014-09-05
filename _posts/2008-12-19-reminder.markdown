@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: reminder
+author:
+  display_name: Aaron
+  login: admin
+  email: gruen0aermel@gmail.com
+  url: http://
+author_login: admin
+author_email: gruen0aermel@gmail.com
+author_url: http://
+wordpress_id: 32
+wordpress_url: http://aaron.vonderhaar.name/?p=32
+date: '2008-12-19 23:14:26 -0800'
+date_gmt: '2008-12-20 06:14:26 -0800'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>Miranda July reminds me, "It ... triumphant" <a href="http:&#47;&#47;www.noonebelongsheremorethanyou.com&#47;00025"> http:&#47;&#47;www.noonebelongsheremorethanyou.com&#47;00025<&#47;a></p>
+<p>Werner Erhard reminds us, "Happiness is a function of accepting what is. Love is a function of communication. Health is a function of participation. Self Expression is a function of responsibility."</p>
+<p>Jasmine reminds me, "I can hardly breathe" <a href="http:&#47;&#47;flickr.com&#47;photos&#47;jasfitz&#47;3107664039&#47;">http:&#47;&#47;flickr.com&#47;photos&#47;jasfitz&#47;3107664039&#47;<&#47;a></p>
+<p>Christina reminds me, "... take what I can get!"</p>

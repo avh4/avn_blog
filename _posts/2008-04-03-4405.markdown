@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: 4&#47;4&#47;05
+author:
+  display_name: Aaron
+  login: admin
+  email: gruen0aermel@gmail.com
+  url: http://
+author_login: admin
+author_email: gruen0aermel@gmail.com
+author_url: http://
+wordpress_id: 5
+wordpress_url: http://aaron.vonderhaar.name/?p=5
+date: '2008-04-03 00:39:33 -0700'
+date_gmt: '2008-04-03 07:39:33 -0700'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>This is about Friday.  I am fighting with all my might-- San Diego is going to have a vibrant and inspiring and playful lindy hop scene.  I am going to bring passion and spontaneity everywhere I go.  And I am not going to let fear stop the creativity in this world.</p>
+<p><a href="http:&#47;&#47;jacobfaust.com&#47;">http:&#47;&#47;jacobfaust.com&#47;<&#47;a></p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;fpdownload.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=8,0,0,0" width="335" height="28" id="divplaylist"><param name="movie" value="http:&#47;&#47;www.divshare.com&#47;flash&#47;playlist?myId=4161964-229" &#47;><embed src="http:&#47;&#47;www.divshare.com&#47;flash&#47;playlist?myId=4161964-229" width="335" height="28" name="divplaylist" type="application&#47;x-shockwave-flash" pluginspage="http:&#47;&#47;www.macromedia.com&#47;go&#47;getflashplayer"><&#47;embed><&#47;object></p>
+<p>"Jacob Faust was 25 years old when his life ended at the hands of San Diego Police Officers Stephen Holliday and Brian Keaton on April 4, 2005.  Following a left-hand turn against a posted sign, he was pulled over and detained.  Nearly half an hour later three shots were fired into him as he sat in his van, one of them with deadly accuracy going directly through his heart and lungs. Facts gathered from police records and witness statements have left more unanswered questions than ever before about what really happened that night.  Not one of the many witnesses to the shooting corroborated the police version of events:  No one saw a struggle; no one saw pepper spray used.  The police did not follow procedure; they tampered with the crime scene before investigators arrived.  Jacob's fingerprints were not on the toy gun officers claimed was in his hand.</p>
+<p>"In spite of the fact that he cooperated with the police and that Jacob had no criminal record, he was falsely portrayed by the police to the media as someone who could certainly have been a public threat. </p>
+<p>"Jacob&acirc;&euro;&trade;s death was described as, "A series of unfortunate events that happened too quickly," by the homicide detectives.   </p>
+<p>"As we were told in advance would be the case, the District Attorney found the shooting justified.  Her office did not look at the witness statements and was not concerned with the extreme contraindication that exists in the record of events.  Having the DA's office investigate the police, particularly in this city where blatant corruption seems to be the status quo, is rather pointless.  They will always find for their own; they are on the same team.</p>
+<p>"We will continue to fight for justice and to learn the truth of every event that occurred that fateful evening, including the procedures carried out and conduct of all city personnel involved."</p>
